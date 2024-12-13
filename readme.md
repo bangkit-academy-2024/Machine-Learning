@@ -110,8 +110,6 @@ We would like to thank Bangkit Academy 2024 for providing guidance and resources
 ---
 
 ## License
-This project is licensed under the MIT License.  
+This project is licensed under the capstone project.  
 
 ---
-
-Let me know if you need further edits or additional sections! 😊
