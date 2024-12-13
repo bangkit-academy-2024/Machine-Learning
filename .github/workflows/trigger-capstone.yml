@@ -1,0 +1,18 @@
+name: Trigger Capstone Sync
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  trigger-dispatch:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Trigger repository_dispatch to capstone repo
+      run: |
+        curl -X POST \
+          https://api.github.com/repos/epialert/capstone/dispatches \
+          -H "Authorization: token ${{ secrets.CAPSTONE_TOKEN }}" \
+          -d '{"event_type": "sync-capstone-repo"}'
