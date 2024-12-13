@@ -9,9 +9,9 @@ The project aims to assist dermatologists and healthcare providers by offering a
 ---
 
 ## Team Members
-1. Ferry Amaludin (M229B4KY1496)- Machine Learning
-2. Nurul Najwa Sabilla (M496B4KX3452 )-  Machine Learning
-3. Tedy Hermawanto (M262B4KY4306)- Machine Learning 
+1. Ferry Amaludin (M229B4KY1496) - Machine Learning
+2. Nurul Najwa Sabilla (M496B4KX3452 ) -  Machine Learning
+3. Tedy Hermawanto (M262B4KY4306) - Machine Learning 
 
 ---
 
